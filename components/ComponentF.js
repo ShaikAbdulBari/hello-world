@@ -14,6 +14,7 @@ export class ComponentF extends Component {
                 (u) => {
 
                    return  <div> 
+                     <h1>Hello World</h1>
                       <h1> Hello  {u}</h1>
                        
                        </div> 
