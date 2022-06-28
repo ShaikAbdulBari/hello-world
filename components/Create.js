@@ -102,6 +102,7 @@ const options =[];
                         <input type="checkBox" name="skills"  value='Angular' /> <label >Angular</label>
                         <input type="checkBox" name="skills"  value='React' /> <label >React</label>
                         <input type="checkBox" name="skills"  value='Sql' /> <label >Sql</label>
+<h1>Hellooo</h1>
                   </div>
                   <br /><br />
                     
